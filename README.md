@@ -31,7 +31,7 @@ On an IBM PS/2 Model 30 with an 8086 CPU at 8MHz and 640kB RAM, the following be
 - 3 log entries can be processed per second
 - 17 log lines can be processed per second
 
-A 92kB log file has approximately 260 log entries and 1700 log lines.
+A 92kB log file has approximately 260 log entries and 1700 log lines. Total processing time approx 95s.
 
 
 Tested so far with: 
