@@ -8,7 +8,7 @@ Additionally, details of the individual analysis steps can be displayed using th
 
 
 
-Usage: mLOFIAN.exe LogFile [optional parameters]"
+Usage: mLOFIAN.exe LogFile [optional parameters]
 
 
 LogFile      - The mTCP log file to be analyzed (must be specified)
