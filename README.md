@@ -6,16 +6,19 @@ The results display the top 10 visited websites and the top 10 visitor IP addres
 
 Additionally, details of the individual analysis steps can be displayed using the DEBUG=1 parameter.
 
+
 Usage: mLOFIAN.exe LogFile [optional parameters]"
 
-LogFile      - The mTCP log file to be analyzed (must be specified)"
+LogFile      - The mTCP log file to be analyzed (must be specified)
 
-The following optional parameters are all set to 0 (off) by default:"
+The following optional parameters are all set to 0 (off) by default:
 
-DEBUG=[0|1]  - Messages are displayed during analysis (runtime benchmarks)"
-STATUS=[0|1] - A summary of the analysis is also displayed"
-NOKEY=[0|1]  - Do not wait for keyboard input. Suitable for batch processing"
+DEBUG=[0|1]  - Messages are displayed during analysis (runtime benchmarks)
+STATUS=[0|1] - A summary of the analysis is also displayed
+NOKEY=[0|1]  - Do not wait for keyboard input. Suitable for batch processing
 
-Tested so far with: - MS-DOS 5.0 and 6.22 - 8086 and 80286 CPUs (*) HTTPSERV is part of the mTCP applications developed by Michael B. Brutman.
+Tested so far with: 
+- MS-DOS 5.0 and 6.22
+- 8086 and 80286 CPUs
 
 (*) HTTPSERV is part of the mTCP applications developed by Michael B. Brutman.
