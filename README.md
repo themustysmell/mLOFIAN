@@ -22,16 +22,8 @@ _The following optional parameters are all set to 0 (off) by default_
 
 <sub>NOKEY=[0|1]  - Do not wait for keyboard input. Suitable for batch processing</sub>
 
+<sub>SORT=[0|1]   - Choose sort algorithm. Default QuickSort (=0). Bubble (=1).</sub>
 
-The program is currently not optimized for speed. This is due to the bubble sort algorithm used.
-
-On an IBM PS/2 Model 30 with an 8086 CPU at 8MHz and 640kB RAM, the following benchmarks apply:
-
-- 0.9kB can be processed per second
-- 3 log entries can be processed per second
-- 17 log lines can be processed per second
-
-A 92kB log file has approximately 260 log entries and 1700 log lines. Total processing time approx 95s.
 
 
 Tested so far with: 
