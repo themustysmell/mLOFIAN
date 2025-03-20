@@ -24,6 +24,7 @@ _The following optional parameters are all set to 0 (off) by default_
 
 <sub>SORT=[0|1]   - Choose sort algorithm. Default QuickSort (=0). Bubble (=1).</sub>
 
+<sub>TOP=[>=11]   - For a different top score, specify a number >=11. (default=10)</sub>
 
 
 Tested so far with: 
