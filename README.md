@@ -14,13 +14,15 @@ Additionally, details of the individual analysis steps can be displayed using th
 
 LogFile      - The mTCP log file to be analyzed (must be specified)
 
-_The following optional parameters are all set to 0 (off) by default_
+_The following optional parameters are all set to 0 (off) by default:_
 
 <sub>DEBUG=[0|1]  - Messages are displayed during analysis (runtime benchmarks)</sub>
 
 <sub>STATUS=[0|1] - A summary of the analysis is also displayed</sub>
 
 <sub>NOKEY=[0|1]  - Do not wait for keyboard input. Suitable for batch processing</sub>
+
+_Additional parameters:_
 
 <sub>SORT=[0|1]   - Choose sort algorithm. Default QuickSort (=0). Bubble (=1).</sub>
 
