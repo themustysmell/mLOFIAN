@@ -22,6 +22,8 @@ _The following optional parameters are all set to 0 (off) by default:_
 
 <sub>NOKEY=[0|1]  - Do not wait for keyboard input. Suitable for batch processing</sub>
 
+<sub>CHART=[0|1]  - Shows a bar chart of the TOP 10 visitor IPs</sub>
+
 _Additional parameters:_
 
 <sub>SORT=[0|1]   - Choose sort algorithm. Default QuickSort (=0). Bubble (=1).</sub>
